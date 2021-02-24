@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    
+    "typeRoots": [ /* List of folders to include type definitions from. */
+      "node_modules/@types"
+    ],
+    
+    "esModuleInterop": true
+
+  }
+} 
