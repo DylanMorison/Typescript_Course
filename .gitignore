@@ -5,4 +5,7 @@ starter/features/node_modules
 maps/.cache
 maps/dist
 maps/node_modules
+sort/node_modules
+react_ts/node_modules
+react_tjs/node_modules
 

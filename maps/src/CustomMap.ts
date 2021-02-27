@@ -1,3 +1,6 @@
+import { User } from "./User";
+import { Company } from "./Company";
+
 export class CustomMap {
 	private googleMap: google.maps.Map;
 
@@ -7,4 +10,12 @@ export class CustomMap {
 			center: { lat: 0, lng: 0 }
 		});
 	}
+
+	addUserMarker(user: User):void {
+
+  }
+
+	addCompanyMarker(company: Company):void {
+    
+  }
 }
